@@ -30,11 +30,12 @@ import Foundation
 //print(answer_PGS_햄버거만들기([2, 1, 1, 2, 3, 1, 2, 3, 1]))
 //print(answer_PGS_k번째숫자([1, 5, 2, 6, 3, 7, 4], [[2, 5, 3], [4, 4, 1], [1, 7, 3]]))
 //print(answer_PGS_크기가작은부분문자열("3141592", "271"))
-print(answer_PGS_과일장수(4, 3, [4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2]))
+//print(answer_PGS_과일장수(4, 3, [4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2]))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
 //print(answer_PGS_JadenCase문자열만들기("3people Unfollowed Me"))
+print(answer_PGS_올바른괄호("(()("))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
