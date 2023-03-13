@@ -36,7 +36,8 @@ import Foundation
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
 //print(answer_PGS_JadenCase문자열만들기("3people Unfollowed Me"))
 //print(answer_PGS_올바른괄호("(()("))
-print(answer_PGS_캐시(5, ["Jeju", "Pangyo", "Seoul", "NewYork", "LA", "SanFrancisco", "Seoul", "Rome", "Paris", "Jeju", "NewYork", "Rome"]))
+//print(answer_PGS_캐시(5, ["Jeju", "Pangyo", "Seoul", "NewYork", "LA", "SanFrancisco", "Seoul", "Rome", "Paris", "Jeju", "NewYork", "Rome"]))
+print(answer_PGS_괄호회전하기("}]()[{"))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
