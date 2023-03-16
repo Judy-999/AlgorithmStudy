@@ -41,7 +41,8 @@ import Foundation
 //print(answer_PGS_짝지어제거하기("baabaa"))
 //print(answer_PGS_오픈채팅방(["Enter uid1234 Muzi", "Enter uid4567 Prodo","Leave uid1234","Enter uid1234 Prodo","Change uid4567 Ryan"]))
 //print(answer_PGS_귤고르기(6, [1, 3, 2, 5, 4, 5, 2, 3]))
-print(answer_PGS_압축("KAKAO"))
+//print(answer_PGS_압축("KAKAO"))
+print(answer_PGS_예상대진표(8, 4, 7))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
