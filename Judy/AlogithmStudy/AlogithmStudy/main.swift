@@ -31,7 +31,7 @@ import Foundation
 //print(answer_PGS_k번째숫자([1, 5, 2, 6, 3, 7, 4], [[2, 5, 3], [4, 4, 1], [1, 7, 3]]))
 //print(answer_PGS_크기가작은부분문자열("3141592", "271"))
 //print(answer_PGS_과일장수(4, 3, [4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2]))
-print(answer_PGS_3진법뒤집기(45))
+//print(answer_PGS_3진법뒤집기(45))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
@@ -44,6 +44,7 @@ print(answer_PGS_3진법뒤집기(45))
 //print(answer_PGS_귤고르기(6, [1, 3, 2, 5, 4, 5, 2, 3]))
 //print(answer_PGS_압축("KAKAO"))
 //print(answer_PGS_예상대진표(8, 4, 7))
+print(answer_PGS_n진수게임(16, 16, 2, 1))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
