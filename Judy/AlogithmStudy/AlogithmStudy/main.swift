@@ -44,7 +44,8 @@ import Foundation
 //print(answer_PGS_귤고르기(6, [1, 3, 2, 5, 4, 5, 2, 3]))
 //print(answer_PGS_압축("KAKAO"))
 //print(answer_PGS_예상대진표(8, 4, 7))
-print(answer_PGS_n진수게임(16, 16, 2, 1))
+//print(answer_PGS_n진수게임(16, 16, 2, 1))
+print(answer_PGS_위장([["yellow_hat", "headgear"], ["blue_sunglasses", "eyewear"], ["green_turban", "headgear"]]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
