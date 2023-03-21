@@ -46,7 +46,8 @@ import Foundation
 //print(answer_PGS_예상대진표(8, 4, 7))
 //print(answer_PGS_n진수게임(16, 16, 2, 1))
 //print(answer_PGS_위장([["yellow_hat", "headgear"], ["blue_sunglasses", "eyewear"], ["green_turban", "headgear"]]))
-print(answer_PGS_프렌즈4블록(6, 6, ["TTTANT", "RRFACC", "RRRFCC", "TRRRAA", "TTMMMF", "TMMTTJ"]))
+//print(answer_PGS_프렌즈4블록(6, 6, ["TTTANT", "RRFACC", "RRRFCC", "TRRRAA", "TTMMMF", "TMMTTJ"]))
+print(answer_PGS_행렬테두리회전하기(6, 6, [[2,2,5,4],[3,3,6,6],[5,1,6,3]]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
