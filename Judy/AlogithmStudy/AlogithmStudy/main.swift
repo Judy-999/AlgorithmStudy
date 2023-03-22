@@ -32,6 +32,7 @@ import Foundation
 //print(answer_PGS_크기가작은부분문자열("3141592", "271"))
 //print(answer_PGS_과일장수(4, 3, [4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2]))
 //print(answer_PGS_3진법뒤집기(45))
+print(answer_PGS_개인정보수집유효기간("2020.01.01", ["Z 3", "D 5"], ["2019.01.01 D", "2019.11.15 Z", "2019.08.02 D", "2019.07.01 D", "2018.12.28 Z"]))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
@@ -47,7 +48,7 @@ import Foundation
 //print(answer_PGS_n진수게임(16, 16, 2, 1))
 //print(answer_PGS_위장([["yellow_hat", "headgear"], ["blue_sunglasses", "eyewear"], ["green_turban", "headgear"]]))
 //print(answer_PGS_프렌즈4블록(6, 6, ["TTTANT", "RRFACC", "RRRFCC", "TRRRAA", "TTMMMF", "TMMTTJ"]))
-print(answer_PGS_행렬테두리회전하기(6, 6, [[2,2,5,4],[3,3,6,6],[5,1,6,3]]))
+//print(answer_PGS_행렬테두리회전하기(6, 6, [[2,2,5,4],[3,3,6,6],[5,1,6,3]]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
