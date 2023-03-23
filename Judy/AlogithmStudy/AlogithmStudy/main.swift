@@ -49,7 +49,8 @@ import Foundation
 //print(answer_PGS_위장([["yellow_hat", "headgear"], ["blue_sunglasses", "eyewear"], ["green_turban", "headgear"]]))
 //print(answer_PGS_프렌즈4블록(6, 6, ["TTTANT", "RRFACC", "RRRFCC", "TRRRAA", "TTMMMF", "TMMTTJ"]))
 //print(answer_PGS_행렬테두리회전하기(6, 6, [[2,2,5,4],[3,3,6,6],[5,1,6,3]]))
-print(answer_PGS_이모티콘할인행사([[40, 2900], [23, 10000], [11, 5200], [5, 5900], [40, 3100], [27, 9200], [32, 6900]], [1300, 1500, 1600, 4900]))
+//print(answer_PGS_이모티콘할인행사([[40, 2900], [23, 10000], [11, 5200], [5, 5900], [40, 3100], [27, 9200], [32, 6900]], [1300, 1500, 1600, 4900]))
+print(answer_PGS_최솟값만들기([1, 4, 2], [5, 4, 4]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
