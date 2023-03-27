@@ -51,7 +51,8 @@ import Foundation
 //print(answer_PGS_행렬테두리회전하기(6, 6, [[2,2,5,4],[3,3,6,6],[5,1,6,3]]))
 //print(answer_PGS_이모티콘할인행사([[40, 2900], [23, 10000], [11, 5200], [5, 5900], [40, 3100], [27, 9200], [32, 6900]], [1300, 1500, 1600, 4900]))
 //print(answer_PGS_최솟값만들기([1, 4, 2], [5, 4, 4]))
-print(answer_PGS_뉴스클러스터링("FRANCE", "french"))
+//print(answer_PGS_뉴스클러스터링("FRANCE", "french"))
+print(answer_PGS_카펫(10, 2))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
