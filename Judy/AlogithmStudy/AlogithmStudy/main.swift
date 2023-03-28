@@ -54,7 +54,8 @@ import Foundation
 //print(answer_PGS_뉴스클러스터링("FRANCE", "french"))
 //print(answer_PGS_카펫(10, 2))
 //print(answer_PGS_파일명정렬(["img12.png", "img10.png", "img02.png", "img1.png", "IMG01.GIF", "img2.JPG"]))
-print(answer_PGS_멀리뛰기(4))
+//print(answer_PGS_멀리뛰기(4))
+print(answer_PGS_연속부분수열합의개수([7,9,1,1,4]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
