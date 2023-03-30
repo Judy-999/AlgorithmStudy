@@ -57,7 +57,8 @@ import Foundation
 //print(answer_PGS_멀리뛰기(4))
 //print(answer_PGS_연속부분수열합의개수([7,9,1,1,4]))
 //print(answer_PGS_튜플("{{4,2,3},{3},{2,3,4,1},{2,3}}"))
-print(answer_PGS_모음사전("EIO"))
+//print(answer_PGS_모음사전("EIO"))
+print(answer_PGS_점프와순간이동(5000))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
