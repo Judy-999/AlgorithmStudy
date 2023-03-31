@@ -7,6 +7,7 @@
 
 import Foundation
 
+// dfs
 func answer_PGS_피로도(_ k:Int, _ dungeons:[[Int]]) -> Int {
     var dungeonList = [Int]()
     

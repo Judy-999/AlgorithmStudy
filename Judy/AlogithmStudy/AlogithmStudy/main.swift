@@ -60,7 +60,8 @@ import Foundation
 //print(answer_PGS_모음사전("EIO"))
 //print(answer_PGS_점프와순간이동(5000))
 //print(answer_PGS_방문길이("ULURRDLLU"))
-print(answer_PGS_피로도(80, [[80,20],[50,40],[30,10]]))
+//print(answer_PGS_피로도(80, [[80,20],[50,40],[30,10]]))
+print(answer_PGS_땅따먹기([[1,2,3,5],[5,6,7,8],[4,3,2,1]]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
