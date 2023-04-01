@@ -64,7 +64,8 @@ import Foundation
 //print(answer_PGS_땅따먹기([[1,2,3,5],[5,6,7,8],[4,3,2,1]]))
 //print(answer_PGS_이진변환반복하기("110010101001"))
 //print(answer_PGS_다음큰숫자(78))
-print(answer_PGS_피보나치수(5))
+//print(answer_PGS_피보나치수(5))
+print(answer_PGS_프린터([1, 1, 9, 1, 1, 1], 5))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
