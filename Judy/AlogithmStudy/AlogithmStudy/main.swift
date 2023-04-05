@@ -70,7 +70,8 @@ import Foundation
 //print(answer_PGS_k진수에서소수개수구하기(437674, 3))
 //print(answer_PGS_영어끝말잇기(3, ["tank", "kick", "know", "wheel", "land", "dream", "mother", "robot", "tank"]))
 //print(answer_PGS_거리두기확인하기([["POOOP", "OXXOX", "OPXPX", "OOXOX", "POXXP"], ["POOPX", "OXPXP", "PXXXO", "OXXXO", "OOOPP"], ["PXOPX", "OXOXP", "OXPOX", "OXXOP", "PXPOX"], ["OOOXX", "XOOOX", "OOOXX", "OXOOX", "OOOOO"], ["PXPXP", "XPXPX", "PXPXP", "XPXPX", "PXPXP"]]))
-print(answer_PGS_N개의최소공배수([2,6,8,14]))
+//print(answer_PGS_N개의최소공배수([2,6,8,14]))
+print(answer_PGS_HIndex([3, 0, 6, 1, 5]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
