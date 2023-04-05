@@ -55,6 +55,7 @@
 		20A7F32A29BEC6D200661586 /* PGS_17680.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A7F32929BEC6D200661586 /* PGS_17680.swift */; };
 		20A7F32C29BED14200661586 /* PGS_76502.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A7F32B29BED14200661586 /* PGS_76502.swift */; };
 		20AF311329DD05A6005D33A4 /* PGS_81302.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AF311229DD05A6005D33A4 /* PGS_81302.swift */; };
+		20AF311529DD0D76005D33A4 /* PGS_12953.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AF311429DD0D76005D33A4 /* PGS_12953.swift */; };
 		20B2627129D51CE00001AB52 /* PGS_12980.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B2627029D51CE00001AB52 /* PGS_12980.swift */; };
 		20B2627329D52EEE0001AB52 /* PGS_49994.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20B2627229D52EEE0001AB52 /* PGS_49994.swift */; };
 		20C710F628FE3BAF002A7F08 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20C710F528FE3BAF002A7F08 /* main.swift */; };
@@ -138,6 +139,7 @@
 		20A7F32929BEC6D200661586 /* PGS_17680.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_17680.swift; sourceTree = "<group>"; };
 		20A7F32B29BED14200661586 /* PGS_76502.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_76502.swift; sourceTree = "<group>"; };
 		20AF311229DD05A6005D33A4 /* PGS_81302.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_81302.swift; sourceTree = "<group>"; };
+		20AF311429DD0D76005D33A4 /* PGS_12953.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_12953.swift; sourceTree = "<group>"; };
 		20B2627029D51CE00001AB52 /* PGS_12980.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_12980.swift; sourceTree = "<group>"; };
 		20B2627229D52EEE0001AB52 /* PGS_49994.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_49994.swift; sourceTree = "<group>"; };
 		20C710F228FE3BAF002A7F08 /* AlogithmStudy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlogithmStudy; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -210,6 +212,7 @@
 				2033A58829DB9E7100EF8BC3 /* PGS_92335.swift */,
 				2033A58A29DBA18F00EF8BC3 /* PGS_12981.swift */,
 				20AF311229DD05A6005D33A4 /* PGS_81302.swift */,
+				20AF311429DD0D76005D33A4 /* PGS_12953.swift */,
 			);
 			path = LEVEL_2;
 			sourceTree = "<group>";
@@ -431,6 +434,7 @@
 				2074804F29375F9100644AEF /* BOJ_7489.swift in Sources */,
 				2076F9EE29D11EA0008799EA /* PGS_42842.swift in Sources */,
 				20C801AF29C95E4F0021BD1D /* PGS_77485.swift in Sources */,
+				20AF311529DD0D76005D33A4 /* PGS_12953.swift in Sources */,
 				20D7AD8429C009BA009BF598 /* PGS_42888.swift in Sources */,
 				20FC873F2943773700079606 /* BOJ_9366.swift in Sources */,
 				20D9BF4F29D3DCAC004DAF21 /* PGS_84512.swift in Sources */,
