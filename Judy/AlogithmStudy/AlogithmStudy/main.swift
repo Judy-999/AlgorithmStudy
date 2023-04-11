@@ -75,7 +75,8 @@ import Foundation
 //print(answer_PGS_두큐합같게만들기([3, 2, 7, 2], [4, 6, 5, 1]))
 //print(answer_PGS_행렬의곱셉([[2, 3, 2], [4, 2, 4], [3, 1, 4]], [[5, 4, 3], [2, 4, 1], [3, 1, 1]]))
 //print(answer_PGS_n제곱배열자르기(4, 7, 14))
-print(answer_PGS_기능개발([95, 90, 99, 99, 80, 99], [1, 1, 1, 1, 1, 1]))
+//print(answer_PGS_기능개발([95, 90, 99, 99, 80, 99], [1, 1, 1, 1, 1, 1]))
+print(answer_PGS_메뉴리뉴얼(["XYZ", "XWY", "WXA"], [2,3,4]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
