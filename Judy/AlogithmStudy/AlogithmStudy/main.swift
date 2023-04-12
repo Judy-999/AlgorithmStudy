@@ -78,7 +78,8 @@ import Foundation
 //print(answer_PGS_기능개발([95, 90, 99, 99, 80, 99], [1, 1, 1, 1, 1, 1]))
 //print(answer_PGS_메뉴리뉴얼(["XYZ", "XWY", "WXA"], [2,3,4]))
 //print(answer_PGS_타켓넘버([4, 1, 2, 1], 4))
-print(answer_PGS_문자열압축("abcabcabcabcdededededede"))
+//print(answer_PGS_문자열압축("abcabcabcabcdededededede"))
+print(answer_PGS_할인행사(["banana", "apple", "rice", "pork", "pot"], [3, 2, 2, 2, 1], ["chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
