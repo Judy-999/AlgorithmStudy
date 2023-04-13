@@ -80,7 +80,8 @@ import Foundation
 //print(answer_PGS_타켓넘버([4, 1, 2, 1], 4))
 //print(answer_PGS_문자열압축("abcabcabcabcdededededede"))
 //print(answer_PGS_할인행사(["banana", "apple", "rice", "pork", "pot"], [3, 2, 2, 2, 1], ["chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"]))
-print(answer_PGS_수식최대화("100-200*300-500+20"))
+//print(answer_PGS_수식최대화("100-200*300-500+20"))
+print(answer_PGS_다리를지나는트럭(2, 10, [7, 4, 5, 6]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
