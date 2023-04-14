@@ -33,6 +33,7 @@ import Foundation
 //print(answer_PGS_과일장수(4, 3, [4, 1, 2, 2, 4, 4, 4, 4, 1, 2, 4, 2]))
 //print(answer_PGS_3진법뒤집기(45))
 //print(answer_PGS_개인정보수집유효기간("2020.01.01", ["Z 3", "D 5"], ["2019.01.01 D", "2019.11.15 Z", "2019.08.02 D", "2019.07.01 D", "2018.12.28 Z"]))
+print(answer_PGS_크레인인형뽑기게임([[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]], [1,5,3,5,1,2,1,4]))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
@@ -82,7 +83,7 @@ import Foundation
 //print(answer_PGS_할인행사(["banana", "apple", "rice", "pork", "pot"], [3, 2, 2, 2, 1], ["chicken", "apple", "apple", "banana", "rice", "apple", "pork", "banana", "pork", "rice", "pot", "banana", "apple", "banana"]))
 //print(answer_PGS_수식최대화("100-200*300-500+20"))
 //print(answer_PGS_다리를지나는트럭(2, 10, [7, 4, 5, 6]))
-print(answer_PGS_큰수만들기("4177252841", 4))
+//print(answer_PGS_큰수만들기("4177252841", 4))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
