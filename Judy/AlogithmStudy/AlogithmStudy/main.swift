@@ -36,7 +36,8 @@ import Foundation
 //print(answer_PGS_크레인인형뽑기게임([[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]], [1,5,3,5,1,2,1,4]))
 //print(answer_PGS_비밀지도(5, [9, 20, 28, 18, 11], [30, 1, 21, 17, 28]))
 //print(answer_PGS_성격유형검사하기(["AN", "CF", "MJ", "RT", "NA"], [5, 3, 2, 7, 5]))
-print(answer_PGS_신고결과받기(["muzi", "frodo", "apeach", "neo"], ["muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"], 2))
+//print(answer_PGS_신고결과받기(["muzi", "frodo", "apeach", "neo"], ["muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"], 2))
+print(answer_PGS_신규아이디추천("...!@BaT#*..y.abcdefghijklm"))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
