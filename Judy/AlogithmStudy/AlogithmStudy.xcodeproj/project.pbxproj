@@ -35,6 +35,7 @@
 		205CC2582A7D366400F557FC /* lawOfLargeNumbers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205CC2572A7D366400F557FC /* lawOfLargeNumbers.swift */; };
 		205CC25A2A7D37FD00F557FC /* numberCardGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205CC2592A7D37FD00F557FC /* numberCardGame.swift */; };
 		205CC25C2A7D38DF00F557FC /* untilOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205CC25B2A7D38DF00F557FC /* untilOne.swift */; };
+		205CC2602A7D39C300F557FC /* adventurersGuild.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205CC25F2A7D39C300F557FC /* adventurersGuild.swift */; };
 		2074804B29374A1C00644AEF /* BOJ_4504.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2074804A29374A1C00644AEF /* BOJ_4504.swift */; };
 		2074804D2937519B00644AEF /* BOJ_9243.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2074804C2937519B00644AEF /* BOJ_9243.swift */; };
 		2074804F29375F9100644AEF /* BOJ_7489.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2074804E29375F9100644AEF /* BOJ_7489.swift */; };
@@ -141,6 +142,7 @@
 		205CC2572A7D366400F557FC /* lawOfLargeNumbers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lawOfLargeNumbers.swift; sourceTree = "<group>"; };
 		205CC2592A7D37FD00F557FC /* numberCardGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numberCardGame.swift; sourceTree = "<group>"; };
 		205CC25B2A7D38DF00F557FC /* untilOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = untilOne.swift; sourceTree = "<group>"; };
+		205CC25F2A7D39C300F557FC /* adventurersGuild.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = adventurersGuild.swift; sourceTree = "<group>"; };
 		2074804A29374A1C00644AEF /* BOJ_4504.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_4504.swift; sourceTree = "<group>"; };
 		2074804C2937519B00644AEF /* BOJ_9243.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_9243.swift; sourceTree = "<group>"; };
 		2074804E29375F9100644AEF /* BOJ_7489.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_7489.swift; sourceTree = "<group>"; };
@@ -284,6 +286,7 @@
 		205CC2542A7D344000F557FC /* Greedy */ = {
 			isa = PBXGroup;
 			children = (
+				205CC25E2A7D39A200F557FC /* Past */,
 				205CC25D2A7D395A00F557FC /* Practice */,
 			);
 			path = Greedy;
@@ -298,6 +301,14 @@
 				205CC25B2A7D38DF00F557FC /* untilOne.swift */,
 			);
 			path = Practice;
+			sourceTree = "<group>";
+		};
+		205CC25E2A7D39A200F557FC /* Past */ = {
+			isa = PBXGroup;
+			children = (
+				205CC25F2A7D39C300F557FC /* adventurersGuild.swift */,
+			);
+			path = Past;
 			sourceTree = "<group>";
 		};
 		207CF713290BC3E4002911B2 /* LEVEL_0 */ = {
@@ -551,6 +562,7 @@
 				209BC80329CAAED7009904F0 /* PGS_150368.swift in Sources */,
 				2074804B29374A1C00644AEF /* BOJ_4504.swift in Sources */,
 				2094128D292618C9001DB342 /* BOJ_5789.swift in Sources */,
+				205CC2602A7D39C300F557FC /* adventurersGuild.swift in Sources */,
 				203EC10129E675C200469208 /* PGS_131127.swift in Sources */,
 				207DBB522912721100316B82 /* PGS_70128.swift in Sources */,
 				207DBB54291277A600316B82 /* PGS_132267.swift in Sources */,
