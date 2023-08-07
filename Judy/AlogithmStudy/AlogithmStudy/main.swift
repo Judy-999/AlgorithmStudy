@@ -104,4 +104,4 @@ import Foundation
 //answer_BOJ_마지막팩토리얼수_2553()
 
 
-reverseString()
+choiceBollingBall()
