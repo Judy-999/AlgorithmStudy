@@ -8,19 +8,17 @@
 import Foundation
 
 func greedyExam1() -> Int {
-    let count = Int(readLine()!)! // 이거 왜 필요하지
-    var horrors = readLine()!.components(separatedBy: " ").compactMap { Int($0) }
+    let count = Int(readLine()!)! // 이거 왜 필요하지 (안필요)
+    var horrors = readLine()!.components(separatedBy: " ").compactMap { Int($0) }.sorted(by: >)
     var guild: [Int] = []
     var result = 0
     
-    horrors.sort(by: >)
-    
-    while let man = horrors.popLast() {
-        guild.append(man)
+    while let man = horrors.popLast() { // 공포도 낮은 사람부터 넣기
+        guild.append(man) // 일단 그룹에 추가
         
-        if guild.max() == guild.count {
+        if guild.max() == guild.count { // 그룹원 중에 최대 공포도가 그룹원 수랑 같으면 그룹 수 추가
             result += 1
-            guild.removeAll()
+            guild.removeAll() // 그룹 초기화
         }
     }
     

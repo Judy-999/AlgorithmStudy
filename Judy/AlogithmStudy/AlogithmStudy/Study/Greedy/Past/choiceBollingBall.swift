@@ -8,7 +8,7 @@
 import Foundation
 
 func choiceBollingBall() -> Int {
-    let count = readLine()!.components(separatedBy: " ").compactMap { Int($0) } // 이거 왜 필요하지
+    let count = readLine()!.components(separatedBy: " ").compactMap { Int($0) } // 이거 사용 안함
     var balls = readLine()!.components(separatedBy: " ").compactMap { Int($0) }
     var result = 0
     
@@ -18,3 +18,7 @@ func choiceBollingBall() -> Int {
     
     return result
 }
+//1 1 1
+//2 2 2
+//3 3 3
+//4

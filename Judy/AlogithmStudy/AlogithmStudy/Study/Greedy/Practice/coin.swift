@@ -12,9 +12,9 @@ func coin_01(_ n: Int) -> [Int] {
     var money = n
     var result: [Int] = []
     
-    for coin in coins {
-        result.append(money / coin)
-        money %= coin
+    for coin in coins { // 모든 동전에 대해 반복
+        result.append(money / coin) // 현재 동전으로 가능한 개수 = 나눈 몫
+        money %= coin   // 남은 금액
     }
     
     return result

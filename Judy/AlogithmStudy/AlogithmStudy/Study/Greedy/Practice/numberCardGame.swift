@@ -11,6 +11,7 @@ func numberCardGame_03() -> Int {
     let rowAndColumn = readLine()!.components(separatedBy: " ")
     var arrays: [Int] = []
     
+    // 행에서 가장 작은 수를 뽑고 그 중에서 가장 큰 수를 찾기
     for _ in 0..<Int(rowAndColumn[0])! {
         let row = readLine()!.components(separatedBy: " ").compactMap { Int($0) }
         arrays.append(row.min()!)
