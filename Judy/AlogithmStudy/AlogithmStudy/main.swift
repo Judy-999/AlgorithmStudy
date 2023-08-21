@@ -104,12 +104,4 @@ import Foundation
 //answer_BOJ_마지막팩토리얼수_2553()
 
 
-//choiceBollingBall()
-
-
-
-//print(solution([3, 1, 2], 5))
-
-//print(greedyExam1())
-
-print(choiceBollingBall())
+print(solution(5, [2, 4], [1, 3]))

@@ -76,6 +76,7 @@
 		209F1E56296A4624006AA2BF /* PGS_120863.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209F1E55296A4624006AA2BF /* PGS_120863.swift */; };
 		209F1E58296A4702006AA2BF /* PGS_120907.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209F1E57296A4702006AA2BF /* PGS_120907.swift */; };
 		209F1E5A296A64C4006AA2BF /* PGS_42748.swift in Sources */ = {isa = PBXBuildFile; fileRef = 209F1E59296A64C4006AA2BF /* PGS_42748.swift */; };
+		20A1CADA2A924B6F0010D551 /* GymUniform.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A1CAD92A924B6F0010D551 /* GymUniform.swift */; };
 		20A7F32A29BEC6D200661586 /* PGS_17680.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A7F32929BEC6D200661586 /* PGS_17680.swift */; };
 		20A7F32C29BED14200661586 /* PGS_76502.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20A7F32B29BED14200661586 /* PGS_76502.swift */; };
 		20AF311329DD05A6005D33A4 /* PGS_81302.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AF311229DD05A6005D33A4 /* PGS_81302.swift */; };
@@ -188,6 +189,7 @@
 		209F1E55296A4624006AA2BF /* PGS_120863.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_120863.swift; sourceTree = "<group>"; };
 		209F1E57296A4702006AA2BF /* PGS_120907.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_120907.swift; sourceTree = "<group>"; };
 		209F1E59296A64C4006AA2BF /* PGS_42748.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_42748.swift; sourceTree = "<group>"; };
+		20A1CAD92A924B6F0010D551 /* GymUniform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GymUniform.swift; sourceTree = "<group>"; };
 		20A7F32929BEC6D200661586 /* PGS_17680.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_17680.swift; sourceTree = "<group>"; };
 		20A7F32B29BED14200661586 /* PGS_76502.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_76502.swift; sourceTree = "<group>"; };
 		20AF311229DD05A6005D33A4 /* PGS_81302.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_81302.swift; sourceTree = "<group>"; };
@@ -298,6 +300,7 @@
 			children = (
 				205CC25E2A7D39A200F557FC /* Past */,
 				205CC25D2A7D395A00F557FC /* Practice */,
+				20A1CAD92A924B6F0010D551 /* GymUniform.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -498,6 +501,7 @@
 			files = (
 				206A63152A865BF000CAEFEC /* muziEating.swift in Sources */,
 				20D9BF4D29D3CEF8004DAF21 /* PGS_64065.swift in Sources */,
+				20A1CADA2A924B6F0010D551 /* GymUniform.swift in Sources */,
 				2080040F29D7BEB400498BB5 /* PGS_12911.swift in Sources */,
 				2074804D2937519B00644AEF /* BOJ_9243.swift in Sources */,
 				2033A58B29DBA18F00EF8BC3 /* PGS_12981.swift in Sources */,
