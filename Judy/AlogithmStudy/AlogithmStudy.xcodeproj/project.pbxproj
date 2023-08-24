@@ -94,6 +94,7 @@
 		20D3C44529D2914A00C9488B /* PGS_131701.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D3C44429D2914A00C9488B /* PGS_131701.swift */; };
 		20D5E7432979802400FB78A8 /* PGS_12951.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D5E7422979802400FB78A8 /* PGS_12951.swift */; };
 		20D5E745297980BC00FB78A8 /* PGS_147355.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D5E744297980BC00FB78A8 /* PGS_147355.swift */; };
+		20D6A85A2A93AA61004EB565 /* Stairs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D6A8592A93AA61004EB565 /* Stairs.swift */; };
 		20D7AD8229C00558009BF598 /* PGS_12973.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D7AD8129C00558009BF598 /* PGS_12973.swift */; };
 		20D7AD8429C009BA009BF598 /* PGS_42888.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D7AD8329C009BA009BF598 /* PGS_42888.swift */; };
 		20D9BF4D29D3CEF8004DAF21 /* PGS_64065.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20D9BF4C29D3CEF8004DAF21 /* PGS_64065.swift */; };
@@ -208,6 +209,7 @@
 		20D3C44429D2914A00C9488B /* PGS_131701.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_131701.swift; sourceTree = "<group>"; };
 		20D5E7422979802400FB78A8 /* PGS_12951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_12951.swift; sourceTree = "<group>"; };
 		20D5E744297980BC00FB78A8 /* PGS_147355.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_147355.swift; sourceTree = "<group>"; };
+		20D6A8592A93AA61004EB565 /* Stairs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stairs.swift; sourceTree = "<group>"; };
 		20D7AD8129C00558009BF598 /* PGS_12973.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_12973.swift; sourceTree = "<group>"; };
 		20D7AD8329C009BA009BF598 /* PGS_42888.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_42888.swift; sourceTree = "<group>"; };
 		20D9BF4C29D3CEF8004DAF21 /* PGS_64065.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_64065.swift; sourceTree = "<group>"; };
@@ -301,6 +303,7 @@
 				205CC25E2A7D39A200F557FC /* Past */,
 				205CC25D2A7D395A00F557FC /* Practice */,
 				20A1CAD92A924B6F0010D551 /* GymUniform.swift */,
+				20D6A8592A93AA61004EB565 /* Stairs.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -572,6 +575,7 @@
 				2074A44529E530960065F96F /* PGS_72411.swift in Sources */,
 				20E196AF294971D500A6CDD2 /* BOJ_2163.swift in Sources */,
 				2074804F29375F9100644AEF /* BOJ_7489.swift in Sources */,
+				20D6A85A2A93AA61004EB565 /* Stairs.swift in Sources */,
 				2076F9EE29D11EA0008799EA /* PGS_42842.swift in Sources */,
 				20C801AF29C95E4F0021BD1D /* PGS_77485.swift in Sources */,
 				20AF311529DD0D76005D33A4 /* PGS_12953.swift in Sources */,
