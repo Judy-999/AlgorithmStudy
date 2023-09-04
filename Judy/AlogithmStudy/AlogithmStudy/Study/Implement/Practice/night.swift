@@ -13,7 +13,7 @@ func night() {
     let routes = [(2, 1), (-2, 1), (2, -1), (-2, -1), (1, 2), (1, -2), (-1, 2), (-1, -2)]
     let current = (alphavet[point[0]]!, Int(point[1])!)
     var count = 0
-    
+//    let row = Int(열.first!.asciiValue! - 96) 알파벳 유니코드
     for route in routes {
         let step = (route.0 + current.0, route.1 + current.1)
         if step.0 < 1 || step.0 > 8 || step.1 < 1 || step.1 > 8 {
