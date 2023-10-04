@@ -14,11 +14,13 @@ func chickenStreet() {
     var houses = [(Int, Int)]()
     var chickenDistances = [Int]()
     
+    // 배열 만들어주기
     for _ in 0..<numbers[0] {
         let street = readLine()!.components(separatedBy: " ").compactMap { Int($0) }
         streets.append(street)
     }
     
+    // 집과 치킨집 위치를 각각 배열로 분리
     for (row, places) in streets.enumerated() {
         for (column, place) in places.enumerated() {
             if place == 1 {
@@ -29,12 +31,10 @@ func chickenStreet() {
         }
     }
     
-    for m in 1..<(numbers[1] + 1) {
-        let selectedChickens = combination(chickens, n: m)
-        
-        for chickens in selectedChickens {
-            chickenDistances.append(calculateDistance(houses, chickens))
-        }
+    let selectedChickens = combination(chickens, n: numbers[1])
+    
+    for chickens in selectedChickens {
+        chickenDistances.append(calculateDistance(houses, chickens)) // 치킨거리 추가
     }
     
     print(chickenDistances.min()!)

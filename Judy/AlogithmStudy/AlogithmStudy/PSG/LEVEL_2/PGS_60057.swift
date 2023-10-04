@@ -21,23 +21,23 @@ func compression(_ s: String, _ unit: Int) -> Int {
     var words = ""
     var count = 0
     
-    for (i, c) in s.enumerated() {
-        if i % unit == 0 && i != 0 {
-            if stack.last == words {
+    for (index, alphavet) in s.enumerated() {
+        if index % unit == 0 && index != 0 { // 압축할 개수이면
+            if stack.last == words { // 이미 똑같은걸 압축한 상태라면
                 count += 1
             } else {
-                if count > 1 { stack.append("\(count)") }
+                if count > 1 { stack.append("\(count)") } // 이미 압축한게 있었으면 숫자도 추가
                 stack.append(words)
                 count = 1
             }
-            words.removeAll()
+            words.removeAll() // 다시 새롭게 압축 시작
         }
     
-        words += String(c)
+        words += String(alphavet)
     }
     
     stack.last == words ? count += 1 : stack.append(words)
-    if count > 1 { stack.append("\(count)") }
+    if count > 1 { stack.append("\(count)") } // 마지막 문자열 추가
    
     return stack.joined().count
 }
