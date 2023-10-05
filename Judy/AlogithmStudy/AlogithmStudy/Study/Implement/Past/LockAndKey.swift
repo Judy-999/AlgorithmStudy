@@ -185,3 +185,8 @@ func turnRight(_ array: [[Int]]) -> [[Int]] {
 //
 //    return new.map { $0.reversed() }
 //}
+
+
+//lockAndKey([[0, 0, 0], [1, 0, 0], [0, 1, 1]], [[1, 1, 1], [1, 1, 0], [1, 0, 1]])
+
+//print(turnRight([[0, 0, 0], [1, 0, 0], [0, 1, 1]]))

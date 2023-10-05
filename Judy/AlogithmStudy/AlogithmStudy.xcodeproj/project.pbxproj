@@ -47,6 +47,7 @@
 		206A9A762AA9F0AF003778FB /* Snake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206A9A752AA9F0AF003778FB /* Snake.swift */; };
 		206A9A782AAF42BE003778FB /* WallInspection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206A9A772AAF42BE003778FB /* WallInspection.swift */; };
 		2070F6472ACDB621000CDD60 /* MiroEscape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2070F6462ACDB621000CDD60 /* MiroEscape.swift */; };
+		2070F6492ACE42A3000CDD60 /* IceMaker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2070F6482ACE42A3000CDD60 /* IceMaker.swift */; };
 		2074804B29374A1C00644AEF /* BOJ_4504.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2074804A29374A1C00644AEF /* BOJ_4504.swift */; };
 		2074804D2937519B00644AEF /* BOJ_9243.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2074804C2937519B00644AEF /* BOJ_9243.swift */; };
 		2074804F29375F9100644AEF /* BOJ_7489.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2074804E29375F9100644AEF /* BOJ_7489.swift */; };
@@ -173,6 +174,7 @@
 		206A9A752AA9F0AF003778FB /* Snake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snake.swift; sourceTree = "<group>"; };
 		206A9A772AAF42BE003778FB /* WallInspection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WallInspection.swift; sourceTree = "<group>"; };
 		2070F6462ACDB621000CDD60 /* MiroEscape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiroEscape.swift; sourceTree = "<group>"; };
+		2070F6482ACE42A3000CDD60 /* IceMaker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IceMaker.swift; sourceTree = "<group>"; };
 		2074804A29374A1C00644AEF /* BOJ_4504.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_4504.swift; sourceTree = "<group>"; };
 		2074804C2937519B00644AEF /* BOJ_9243.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_9243.swift; sourceTree = "<group>"; };
 		2074804E29375F9100644AEF /* BOJ_7489.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_7489.swift; sourceTree = "<group>"; };
@@ -384,6 +386,7 @@
 			isa = PBXGroup;
 			children = (
 				2070F6462ACDB621000CDD60 /* MiroEscape.swift */,
+				2070F6482ACE42A3000CDD60 /* IceMaker.swift */,
 			);
 			path = Practice;
 			sourceTree = "<group>";
@@ -636,6 +639,7 @@
 				20D3C44329D28A8200C9488B /* PGS_12914.swift in Sources */,
 				200B82D72A9F8A4200806917 /* gameDevelop.swift in Sources */,
 				205CC2622A7D3B0B00F557FC /* multiplyOrAdd.swift in Sources */,
+				2070F6492ACE42A3000CDD60 /* IceMaker.swift in Sources */,
 				20A453CF2A9CE6B200533A74 /* night.swift in Sources */,
 				207480512937627F00644AEF /* BOJ_2553.swift in Sources */,
 				2033055C292F69360019D19F /* BOJ_17210.swift in Sources */,
