@@ -33,9 +33,9 @@ func lockAndKey(_ key:[[Int]], _ lock:[[Int]]) -> Bool {
                     testKey.append(testLine)
                 }
                 
-                if checkKey(testKey, lock) {
-                    return true
-                }
+//                if checkKey(testKey, lock) {
+//                    return true
+//                }
             }
         }
         
