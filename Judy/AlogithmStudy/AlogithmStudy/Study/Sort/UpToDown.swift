@@ -15,6 +15,6 @@ func upToDown() {
         numbers.append(Int(readLine()!)!)
     }
     
-    let result = numbers.sorted(by: >).map { String($0) }.joined(separator: ", ")
+    let result = numbers.sorted(by: >).map { String($0) }.joined(separator: " ")
     print(result)
 }
