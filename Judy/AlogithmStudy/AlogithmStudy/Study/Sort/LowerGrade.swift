@@ -19,3 +19,9 @@ func lowerGrade() {
     let result = students.sorted(by: { $0.1 < $1.1 }).map { $0.0 }.joined(separator: " ")
     print(result)
 }
+
+
+// 2
+// 홍길동 95
+// 이순신 27
+// 결과: 이순신 홍길동

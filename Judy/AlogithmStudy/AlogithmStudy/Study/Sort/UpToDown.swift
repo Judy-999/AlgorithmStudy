@@ -18,3 +18,10 @@ func upToDown() {
     let result = numbers.sorted(by: >).map { String($0) }.joined(separator: " ")
     print(result)
 }
+
+
+// 3
+// 15
+// 27
+// 12
+// 결과: 27 15 12
