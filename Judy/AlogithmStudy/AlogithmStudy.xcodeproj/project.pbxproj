@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		2000FEA92945CCC20066931D /* PGS_12926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2000FEA82945CCC20066931D /* PGS_12926.swift */; };
 		200B82D72A9F8A4200806917 /* gameDevelop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200B82D62A9F8A4200806917 /* gameDevelop.swift */; };
+		2028F48D2AD83A43004349EF /* UpToDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2028F48C2AD83A43004349EF /* UpToDown.swift */; };
 		202D622D29F0DEBC0058DF75 /* PGS_72410.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202D622C29F0DEBC0058DF75 /* PGS_72410.swift */; };
 		202D622F29F101B70058DF75 /* PGS_77484.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202D622E29F101B70058DF75 /* PGS_77484.swift */; };
 		202E7CF729E8D5C7001BCF41 /* PGS_64061.swift in Sources */ = {isa = PBXBuildFile; fileRef = 202E7CF629E8D5C7001BCF41 /* PGS_64061.swift */; };
@@ -136,6 +137,7 @@
 /* Begin PBXFileReference section */
 		2000FEA82945CCC20066931D /* PGS_12926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_12926.swift; sourceTree = "<group>"; };
 		200B82D62A9F8A4200806917 /* gameDevelop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameDevelop.swift; sourceTree = "<group>"; };
+		2028F48C2AD83A43004349EF /* UpToDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpToDown.swift; sourceTree = "<group>"; };
 		202D622C29F0DEBC0058DF75 /* PGS_72410.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_72410.swift; sourceTree = "<group>"; };
 		202D622E29F101B70058DF75 /* PGS_77484.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_77484.swift; sourceTree = "<group>"; };
 		202E7CF629E8D5C7001BCF41 /* PGS_64061.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_64061.swift; sourceTree = "<group>"; };
@@ -260,6 +262,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2028F48B2AD83A08004349EF /* Sort */ = {
+			isa = PBXGroup;
+			children = (
+				2028F48C2AD83A43004349EF /* UpToDown.swift */,
+			);
+			path = Sort;
+			sourceTree = "<group>";
+		};
 		202EE68F2961B805003A504C /* LEVEL_2 */ = {
 			isa = PBXGroup;
 			children = (
@@ -318,6 +328,7 @@
 		205CC2532A7D343400F557FC /* Study */ = {
 			isa = PBXGroup;
 			children = (
+				2028F48B2AD83A08004349EF /* Sort */,
 				2070F6442ACDAF98000CDD60 /* BFSDFS */,
 				20A453C82A9CD92B00533A74 /* Implement */,
 				205CC2542A7D344000F557FC /* Greedy */,
@@ -667,6 +678,7 @@
 				2074804F29375F9100644AEF /* BOJ_7489.swift in Sources */,
 				20D6A85A2A93AA61004EB565 /* Stairs.swift in Sources */,
 				2076F9EE29D11EA0008799EA /* PGS_42842.swift in Sources */,
+				2028F48D2AD83A43004349EF /* UpToDown.swift in Sources */,
 				20C801AF29C95E4F0021BD1D /* PGS_77485.swift in Sources */,
 				20AF311529DD0D76005D33A4 /* PGS_12953.swift in Sources */,
 				203EC0FF29E65CFE00469208 /* PGS_60057.swift in Sources */,
