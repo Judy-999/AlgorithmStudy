@@ -8,7 +8,7 @@
 import Foundation
 
 func greedyExam1() -> Int {
-    let count = Int(readLine()!)! // 이거 왜 필요하지 (안필요)
+    let _ = Int(readLine()!)! // 이거 왜 필요하지 (안필요)
     var horrors = readLine()!.components(separatedBy: " ").compactMap { Int($0) }.sorted(by: >)
     var guild: [Int] = []
     var result = 0

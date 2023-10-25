@@ -8,7 +8,7 @@
 import Foundation
 
 func choiceBollingBall() -> Int {
-    let count = readLine()!.components(separatedBy: " ").compactMap { Int($0) } // 이거 사용 안함
+    let _ = readLine()!.components(separatedBy: " ").compactMap { Int($0) } // 이거 사용 안함
     var balls = readLine()!.components(separatedBy: " ").compactMap { Int($0) }
     var result = 0
     

@@ -53,7 +53,7 @@ func solution(_ food_times:[Int], _ k:Int64) -> Int {
     var count = k
     var index = 0
 
-    while foods.filter { $0 != 0 }.isEmpty == false {
+    while foods.filter({ $0 != 0 }).isEmpty == false {
         if foods[index] > 0 {
             if count == 0 {
                 break

@@ -8,7 +8,7 @@
 import Foundation
 
 func answer_PGS_모음사전(_ word:String) -> Int {
-    var dic =  ["A": 0, "E": 1, "I": 2, "O": 3, "U": 4]
+    let dic =  ["A": 0, "E": 1, "I": 2, "O": 3, "U": 4]
     var count = 0
     
     for (index, w) in word.enumerated() {

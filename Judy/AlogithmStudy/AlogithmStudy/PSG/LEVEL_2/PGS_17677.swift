@@ -10,7 +10,7 @@ import Foundation
 func answer_PGS_뉴스클러스터링(_ str1: String, _ str2: String) -> Int {
     let first = str1.uppercased().map { String($0) }
     let second = str2.uppercased().map { String($0) }
-    var firstList = makeMultiSet(first)
+    let firstList = makeMultiSet(first)
     var secondList = makeMultiSet(second)
     var count = 0
     let sum = firstList.count + secondList.count

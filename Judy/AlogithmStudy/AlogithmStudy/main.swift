@@ -102,3 +102,4 @@ import Foundation
 
 //MARK: - 백준 SILVER
 //answer_BOJ_마지막팩토리얼수_2553()
+sleceRiceCake()

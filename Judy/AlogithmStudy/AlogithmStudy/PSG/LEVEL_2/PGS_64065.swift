@@ -9,7 +9,7 @@ import Foundation
 
 // 딕셔너리 활용 버전
 func answer_PGS_튜플(_ s:String) -> [Int] {
-    var tuples = s.filter { $0 != "{" && $0 != "}"}
+    let tuples = s.filter { $0 != "{" && $0 != "}"}
                   .components(separatedBy: ",")
                   .compactMap { Int(String($0)) }
  

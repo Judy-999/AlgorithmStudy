@@ -46,7 +46,7 @@ func lockAndKey(_ key:[[Int]], _ lock:[[Int]]) -> Bool {
 }
 
 func checkKey(_ keys: [[Int]], _ locks: [[Int]], _ x: Int, _ y: Int) -> Bool {
-    var newLocks = Array(repeating: Array(repeating: 0, count: locks.count * 3), count: locks.count * 3)
+    var _ = Array(repeating: Array(repeating: 0, count: locks.count * 3), count: locks.count * 3)
     
 //    for i in 0..<keys.count {
 //        for j in 0..<locks.count {
