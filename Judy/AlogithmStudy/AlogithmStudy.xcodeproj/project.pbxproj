@@ -61,6 +61,7 @@
 		207B5E592AE95AC6005899A7 /* FindPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207B5E582AE95AC6005899A7 /* FindPart.swift */; };
 		207B5E5C2AE961F0005899A7 /* SleceRiceCake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207B5E5B2AE961F0005899A7 /* SleceRiceCake.swift */; };
 		207B5E5F2AEAAD20005899A7 /* MakeOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207B5E5E2AEAAD20005899A7 /* MakeOne.swift */; };
+		207B5E632AEC05FE005899A7 /* FloorConstruction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207B5E622AEC05FE005899A7 /* FloorConstruction.swift */; };
 		207B5E652AF1449E005899A7 /* AntWarrior.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207B5E642AF1449E005899A7 /* AntWarrior.swift */; };
 		207B716629B8218E008DC698 /* PGS_135808.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207B716529B8218E008DC698 /* PGS_135808.swift */; };
 		207B716829B824D7008DC698 /* PGS_12909.swift in Sources */ = {isa = PBXBuildFile; fileRef = 207B716729B824D7008DC698 /* PGS_12909.swift */; };
@@ -195,6 +196,7 @@
 		207B5E582AE95AC6005899A7 /* FindPart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindPart.swift; sourceTree = "<group>"; };
 		207B5E5B2AE961F0005899A7 /* SleceRiceCake.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SleceRiceCake.swift; sourceTree = "<group>"; };
 		207B5E5E2AEAAD20005899A7 /* MakeOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeOne.swift; sourceTree = "<group>"; };
+		207B5E622AEC05FE005899A7 /* FloorConstruction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloorConstruction.swift; sourceTree = "<group>"; };
 		207B5E642AF1449E005899A7 /* AntWarrior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntWarrior.swift; sourceTree = "<group>"; };
 		207B716529B8218E008DC698 /* PGS_135808.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_135808.swift; sourceTree = "<group>"; };
 		207B716729B824D7008DC698 /* PGS_12909.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_12909.swift; sourceTree = "<group>"; };
@@ -431,6 +433,7 @@
 			isa = PBXGroup;
 			children = (
 				207B5E5E2AEAAD20005899A7 /* MakeOne.swift */,
+				207B5E622AEC05FE005899A7 /* FloorConstruction.swift */,
 				207B5E642AF1449E005899A7 /* AntWarrior.swift */,
 			);
 			path = DynamicProgramming;
@@ -689,6 +692,7 @@
 				20D3C44329D28A8200C9488B /* PGS_12914.swift in Sources */,
 				200B82D72A9F8A4200806917 /* gameDevelop.swift in Sources */,
 				205CC2622A7D3B0B00F557FC /* multiplyOrAdd.swift in Sources */,
+				207B5E632AEC05FE005899A7 /* FloorConstruction.swift in Sources */,
 				2070F6492ACE42A3000CDD60 /* IceMaker.swift in Sources */,
 				20A453CF2A9CE6B200533A74 /* night.swift in Sources */,
 				207480512937627F00644AEF /* BOJ_2553.swift in Sources */,
