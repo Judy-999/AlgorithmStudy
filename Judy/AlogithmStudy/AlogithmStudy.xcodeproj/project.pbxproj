@@ -102,6 +102,7 @@
 		20AE07A72B03BE2F00A41B62 /* FutureCity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AE07A62B03BE2F00A41B62 /* FutureCity.swift */; };
 		20AE07A92B0515C200A41B62 /* Telegram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AE07A82B0515C200A41B62 /* Telegram.swift */; };
 		20AE07AC2B0A436800A41B62 /* Curriculum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AE07AB2B0A436800A41B62 /* Curriculum.swift */; };
+		20AE07AE2B0BA34C00A41B62 /* MakeTeam.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AE07AD2B0BA34C00A41B62 /* MakeTeam.swift */; };
 		20AF311329DD05A6005D33A4 /* PGS_81302.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AF311229DD05A6005D33A4 /* PGS_81302.swift */; };
 		20AF311529DD0D76005D33A4 /* PGS_12953.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AF311429DD0D76005D33A4 /* PGS_12953.swift */; };
 		20AF311729DD13BF005D33A4 /* PGS_42747.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20AF311629DD13BF005D33A4 /* PGS_42747.swift */; };
@@ -241,6 +242,7 @@
 		20AE07A62B03BE2F00A41B62 /* FutureCity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FutureCity.swift; sourceTree = "<group>"; };
 		20AE07A82B0515C200A41B62 /* Telegram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Telegram.swift; sourceTree = "<group>"; };
 		20AE07AB2B0A436800A41B62 /* Curriculum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Curriculum.swift; sourceTree = "<group>"; };
+		20AE07AD2B0BA34C00A41B62 /* MakeTeam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MakeTeam.swift; sourceTree = "<group>"; };
 		20AF311229DD05A6005D33A4 /* PGS_81302.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_81302.swift; sourceTree = "<group>"; };
 		20AF311429DD0D76005D33A4 /* PGS_12953.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_12953.swift; sourceTree = "<group>"; };
 		20AF311629DD13BF005D33A4 /* PGS_42747.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_42747.swift; sourceTree = "<group>"; };
@@ -524,6 +526,7 @@
 			isa = PBXGroup;
 			children = (
 				20AE07AB2B0A436800A41B62 /* Curriculum.swift */,
+				20AE07AD2B0BA34C00A41B62 /* MakeTeam.swift */,
 			);
 			path = Graph;
 			sourceTree = "<group>";
@@ -733,6 +736,7 @@
 				2037320629E7A2E800486486 /* PGS_42583.swift in Sources */,
 				20E196B129497EE100A6CDD2 /* PGS_133502.swift in Sources */,
 				20CE274C2AB89BE80088A986 /* ChickenStreet.swift in Sources */,
+				20AE07AE2B0BA34C00A41B62 /* MakeTeam.swift in Sources */,
 				2031199B2956E3B0003C72DD /* PGS_120921.swift in Sources */,
 				207B716829B824D7008DC698 /* PGS_12909.swift in Sources */,
 				208A00FF29C2BAFC00611781 /* PGS_17687.swift in Sources */,
