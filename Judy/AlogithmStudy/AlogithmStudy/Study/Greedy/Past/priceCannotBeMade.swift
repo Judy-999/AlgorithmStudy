@@ -8,8 +8,8 @@
 import Foundation
 
 func priceCannotBeMade() -> Int {
-    let count = Int(readLine()!)! // 이거 왜 필요하지
-    var coins = readLine()!.components(separatedBy: " ").compactMap { Int($0) }.sorted(by: <)
+    let _ = Int(readLine()!)! // 이거 왜 필요하지
+    let coins = readLine()!.components(separatedBy: " ").compactMap { Int($0) }.sorted(by: <)
     var min = 1
 
     if coins.first != 1 {

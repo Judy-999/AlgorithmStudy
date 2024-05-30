@@ -31,3 +31,26 @@ func check(_ dic: [String: Int], _ discount: [String]) -> Bool {
     
     return true
 }
+
+// 스터디로 새로운 풀이
+func answer_PGS_할인행사2(_ want:[String], _ number:[Int], _ discount:[String]) -> Int {
+    var wantList: [String] = []
+    var result = 0
+    var index = 0
+    
+    for (sttuf, count) in zip(want, number) {
+        (0..<count).forEach { _ in wantList.append(sttuf) }
+        // 원하는 리스트 만들기 ex) [바나나, 바나나, 바나나, 사과, 사과, 딸기]
+    }
+    
+    wantList.sort(by: <) // 정렬
+    
+    while index + 10 <= discount.count {
+        // 할인 리스트를 10개로 자르고 정렬
+        let discountList = Array(discount[index..<(index + 10)]).sorted(by: <)
+        if wantList == discountList { result += 1 } // 원하는 리스트와 같으면 하루 추가
+        index += 1 // 다음 10개를 자를 기준 +1
+    }
+    
+    return result
+}
