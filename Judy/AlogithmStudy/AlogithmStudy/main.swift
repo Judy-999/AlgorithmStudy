@@ -90,6 +90,7 @@ import Foundation
 //print(answer_PGS_수식최대화("100-200*300-500+20"))
 //print(answer_PGS_다리를지나는트럭(2, 10, [7, 4, 5, 6]))
 //print(answer_PGS_큰수만들기("4177252841", 4))
+print(answer_PGS_둘만의암호("aukks", "wbqd", 5))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
