@@ -39,6 +39,7 @@ import Foundation
 //print(answer_PGS_신고결과받기(["muzi", "frodo", "apeach", "neo"], ["muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"], 2))
 //print(answer_PGS_신규아이디추천("...!@BaT#*..y.abcdefghijklm"))
 //print(answer_PGS_로또의최고순위와최저순위([44, 1, 0, 0, 31, 25], [31, 10, 45, 1, 6, 19]))
+//print(answer_PGS_뒤에있는큰수찾기([9, 1, 5, 3, 6, 2]))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
