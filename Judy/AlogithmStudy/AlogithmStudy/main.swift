@@ -39,7 +39,7 @@ import Foundation
 //print(answer_PGS_신고결과받기(["muzi", "frodo", "apeach", "neo"], ["muzi frodo", "apeach frodo", "frodo neo", "muzi neo", "apeach muzi"], 2))
 //print(answer_PGS_신규아이디추천("...!@BaT#*..y.abcdefghijklm"))
 //print(answer_PGS_로또의최고순위와최저순위([44, 1, 0, 0, 31, 25], [31, 10, 45, 1, 6, 19]))
-//print(answer_PGS_뒤에있는큰수찾기([9, 1, 5, 3, 6, 2]))
+//print(answer_PGS_둘만의암호("aukks", "wbqd", 5))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
@@ -90,7 +90,10 @@ import Foundation
 //print(answer_PGS_수식최대화("100-200*300-500+20"))
 //print(answer_PGS_다리를지나는트럭(2, 10, [7, 4, 5, 6]))
 //print(answer_PGS_큰수만들기("4177252841", 4))
-print(answer_PGS_둘만의암호("aukks", "wbqd", 5))
+//print(answer_PGS_뒤에있는큰수찾기([9, 1, 5, 3, 6, 2]))
+
+//MARK: - 프로그래머스 Level 3
+//print(answer_PGS_베스트앨범(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
