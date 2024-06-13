@@ -92,6 +92,7 @@ import Foundation
 //print(answer_PGS_다리를지나는트럭(2, 10, [7, 4, 5, 6]))
 //print(answer_PGS_큰수만들기("4177252841", 4))
 //print(answer_PGS_뒤에있는큰수찾기([9, 1, 5, 3, 6, 2]))
+//print(answer_PGS_요격시스템([[4,5],[4,8],[10,14],[11,13],[5,12],[3,7],[1,4]]))
 
 //MARK: - 프로그래머스 Level 3
 //print(answer_PGS_베스트앨범(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500]))

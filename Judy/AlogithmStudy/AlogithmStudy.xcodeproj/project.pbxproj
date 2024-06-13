@@ -44,6 +44,7 @@
 		205CC2642A7D3B5400F557FC /* reverseString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205CC2632A7D3B5400F557FC /* reverseString.swift */; };
 		205CC2662A7D473100F557FC /* priceCannotBeMade.swift in Sources */ = {isa = PBXBuildFile; fileRef = 205CC2652A7D473100F557FC /* priceCannotBeMade.swift */; };
 		20683AE22C1B29710080524F /* PGS_138477.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20683AE12C1B29710080524F /* PGS_138477.swift */; };
+		20683AE42C1B2AC10080524F /* PGS_181188.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20683AE32C1B2AC10080524F /* PGS_181188.swift */; };
 		206A63152A865BF000CAEFEC /* muziEating.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206A63142A865BF000CAEFEC /* muziEating.swift */; };
 		206A9A702AA60724003778FB /* LuckyStraight.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206A9A6F2AA60724003778FB /* LuckyStraight.swift */; };
 		206A9A722AA77D45003778FB /* StringRearrange.swift in Sources */ = {isa = PBXBuildFile; fileRef = 206A9A712AA77D45003778FB /* StringRearrange.swift */; };
@@ -189,6 +190,7 @@
 		205CC2632A7D3B5400F557FC /* reverseString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reverseString.swift; sourceTree = "<group>"; };
 		205CC2652A7D473100F557FC /* priceCannotBeMade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = priceCannotBeMade.swift; sourceTree = "<group>"; };
 		20683AE12C1B29710080524F /* PGS_138477.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_138477.swift; sourceTree = "<group>"; };
+		20683AE32C1B2AC10080524F /* PGS_181188.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_181188.swift; sourceTree = "<group>"; };
 		206A63142A865BF000CAEFEC /* muziEating.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = muziEating.swift; sourceTree = "<group>"; };
 		206A9A6F2AA60724003778FB /* LuckyStraight.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LuckyStraight.swift; sourceTree = "<group>"; };
 		206A9A712AA77D45003778FB /* StringRearrange.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringRearrange.swift; sourceTree = "<group>"; };
@@ -358,6 +360,7 @@
 				2037320229E7951500486486 /* PGS_67257.swift */,
 				2037320529E7A2E800486486 /* PGS_42583.swift */,
 				2037320729E7B0AF00486486 /* PGS_42883.swift */,
+				20683AE32C1B2AC10080524F /* PGS_181188.swift */,
 			);
 			path = LEVEL_2;
 			sourceTree = "<group>";
@@ -714,6 +717,7 @@
 				209F1E56296A4624006AA2BF /* PGS_120863.swift in Sources */,
 				205CC2562A7D354A00F557FC /* coin.swift in Sources */,
 				205CC2582A7D366400F557FC /* lawOfLargeNumbers.swift in Sources */,
+				20683AE42C1B2AC10080524F /* PGS_181188.swift in Sources */,
 				202D622D29F0DEBC0058DF75 /* PGS_72410.swift in Sources */,
 				205CC25A2A7D37FD00F557FC /* numberCardGame.swift in Sources */,
 				20D37BDB29D66FCD006BFED0 /* PGS_12913.swift in Sources */,
