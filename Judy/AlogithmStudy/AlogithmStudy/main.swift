@@ -41,6 +41,7 @@ import Foundation
 //print(answer_PGS_로또의최고순위와최저순위([44, 1, 0, 0, 31, 25], [31, 10, 45, 1, 6, 19]))
 //print(answer_PGS_둘만의암호("aukks", "wbqd", 5))
 //print(answer_PGS_명예의전당1(3, [10, 100, 20, 150, 1, 100, 200]))
+//print(answer_PGS_덧칠하기(8, 4, [2, 3, 6]))
 
 //MARK: - 프로그래머스 Level 2
 //print(answer_PGS_최댓값과최솟값("-1 -2 -3 -4"))
