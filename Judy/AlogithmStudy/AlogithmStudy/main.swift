@@ -107,7 +107,8 @@ import Foundation
 //answer_BOJ_팩토리얼_7489()
 //answer_BOJ_삼각형분류_9366()
 //answer_BOJ_초콜릿자르기_2163()
+answer_BOJ_나누기_1507()
 
 //MARK: - 백준 SILVER
 //answer_BOJ_마지막팩토리얼수_2553()
-answer_BOJ_DFS와BFS_1260()
+//answer_BOJ_DFS와BFS_1260()
