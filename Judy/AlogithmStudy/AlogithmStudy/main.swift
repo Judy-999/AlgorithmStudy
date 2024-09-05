@@ -109,7 +109,8 @@ import Foundation
 //answer_BOJ_초콜릿자르기_2163()
 //answer_BOJ_나누기_1507()
 //answer_BOJ_단어공부_1157()
-answer_BOJ_백설공주와일곱난쟁이_3040()
+//answer_BOJ_백설공주와일곱난쟁이_3040()
+answer_BOJ_평균은넘겠지_4344()
 
 //MARK: - 백준 SILVER
 //answer_BOJ_마지막팩토리얼수_2553()
