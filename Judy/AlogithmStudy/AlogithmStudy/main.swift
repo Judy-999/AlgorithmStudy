@@ -118,3 +118,4 @@ import Foundation
 //answer_BOJ_마지막팩토리얼수_2553()
 //answer_BOJ_DFS와BFS_1260()
 //answer_바이러스_2606()
+answer_스택_10828()

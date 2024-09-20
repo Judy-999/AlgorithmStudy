@@ -146,6 +146,7 @@
 		20FEC29329ECD61400816EB6 /* PGS_92334.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEC29229ECD61400816EB6 /* PGS_92334.swift */; };
 		20FF2D342C9D09B000230A94 /* BOJ_10989.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FF2D332C9D09B000230A94 /* BOJ_10989.swift */; };
 		20FF2D362C9D67BB00230A94 /* BOJ_2309.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FF2D352C9D67BB00230A94 /* BOJ_2309.swift */; };
+		20FF2D382C9D6DDD00230A94 /* BOJ_10828.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FF2D372C9D6DDD00230A94 /* BOJ_10828.swift */; };
 		20FFC0D22A8139F4001C3DC5 /* choiceBollingBall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FFC0D12A8139F4001C3DC5 /* choiceBollingBall.swift */; };
 /* End PBXBuildFile section */
 
@@ -302,6 +303,7 @@
 		20FEC29229ECD61400816EB6 /* PGS_92334.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_92334.swift; sourceTree = "<group>"; };
 		20FF2D332C9D09B000230A94 /* BOJ_10989.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_10989.swift; sourceTree = "<group>"; };
 		20FF2D352C9D67BB00230A94 /* BOJ_2309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2309.swift; sourceTree = "<group>"; };
+		20FF2D372C9D6DDD00230A94 /* BOJ_10828.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_10828.swift; sourceTree = "<group>"; };
 		20FFC0D12A8139F4001C3DC5 /* choiceBollingBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = choiceBollingBall.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -643,6 +645,7 @@
 				207480502937627F00644AEF /* BOJ_2553.swift */,
 				2096FB442C88571F00D86808 /* BOJ_1260.swift */,
 				200777BF2C8939FA002A4D3F /* BOJ_2606.swift */,
+				20FF2D372C9D6DDD00230A94 /* BOJ_10828.swift */,
 			);
 			path = SILVER;
 			sourceTree = "<group>";
@@ -759,6 +762,7 @@
 				207B5E592AE95AC6005899A7 /* FindPart.swift in Sources */,
 				20D5E7432979802400FB78A8 /* PGS_12951.swift in Sources */,
 				208A00FD29C2B78C00611781 /* PGS_68935.swift in Sources */,
+				20FF2D382C9D6DDD00230A94 /* BOJ_10828.swift in Sources */,
 				20AE07A92B0515C200A41B62 /* Telegram.swift in Sources */,
 				20AF311329DD05A6005D33A4 /* PGS_81302.swift in Sources */,
 				205CC25C2A7D38DF00F557FC /* untilOne.swift in Sources */,
