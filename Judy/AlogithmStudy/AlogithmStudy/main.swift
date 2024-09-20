@@ -111,8 +111,9 @@ import Foundation
 //answer_BOJ_단어공부_1157()
 //answer_BOJ_백설공주와일곱난쟁이_3040()
 //answer_BOJ_평균은넘겠지_4344()
+answer_BOJ_수정렬하기3_10989()
 
 //MARK: - 백준 SILVER
 //answer_BOJ_마지막팩토리얼수_2553()
 //answer_BOJ_DFS와BFS_1260()
-answer_바이러스_2606()
+//answer_바이러스_2606()

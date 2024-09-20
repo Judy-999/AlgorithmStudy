@@ -144,6 +144,7 @@
 		20FC873F2943773700079606 /* BOJ_9366.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FC873E2943773700079606 /* BOJ_9366.swift */; };
 		20FEC29129ECD0E200816EB6 /* PGS_118666.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEC29029ECD0E200816EB6 /* PGS_118666.swift */; };
 		20FEC29329ECD61400816EB6 /* PGS_92334.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEC29229ECD61400816EB6 /* PGS_92334.swift */; };
+		20FF2D342C9D09B000230A94 /* BOJ_10989.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FF2D332C9D09B000230A94 /* BOJ_10989.swift */; };
 		20FFC0D22A8139F4001C3DC5 /* choiceBollingBall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FFC0D12A8139F4001C3DC5 /* choiceBollingBall.swift */; };
 /* End PBXBuildFile section */
 
@@ -298,6 +299,7 @@
 		20FC873E2943773700079606 /* BOJ_9366.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_9366.swift; sourceTree = "<group>"; };
 		20FEC29029ECD0E200816EB6 /* PGS_118666.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_118666.swift; sourceTree = "<group>"; };
 		20FEC29229ECD61400816EB6 /* PGS_92334.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_92334.swift; sourceTree = "<group>"; };
+		20FF2D332C9D09B000230A94 /* BOJ_10989.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_10989.swift; sourceTree = "<group>"; };
 		20FFC0D12A8139F4001C3DC5 /* choiceBollingBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = choiceBollingBall.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -521,6 +523,7 @@
 				2096FB482C885DC200D86808 /* BOJ_1157.swift */,
 				200777BB2C892D74002A4D3F /* BOJ_3040.swift */,
 				200777BD2C8931B0002A4D3F /* BOJ_4344.swift */,
+				20FF2D332C9D09B000230A94 /* BOJ_10989.swift */,
 			);
 			path = BRONZE;
 			sourceTree = "<group>";
@@ -719,6 +722,7 @@
 				2091A21429E3C9C200C6C170 /* PGS_42586.swift in Sources */,
 				206A9A762AA9F0AF003778FB /* Snake.swift in Sources */,
 				207B5E5C2AE961F0005899A7 /* SleceRiceCake.swift in Sources */,
+				20FF2D342C9D09B000230A94 /* BOJ_10989.swift in Sources */,
 				207F306129DE685D0084963B /* PGS_118667.swift in Sources */,
 				2033A58929DB9E7100EF8BC3 /* PGS_92335.swift in Sources */,
 				2094128F292629BC001DB342 /* BOJ_17618.swift in Sources */,
