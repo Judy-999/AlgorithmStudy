@@ -145,6 +145,7 @@
 		20FEC29129ECD0E200816EB6 /* PGS_118666.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEC29029ECD0E200816EB6 /* PGS_118666.swift */; };
 		20FEC29329ECD61400816EB6 /* PGS_92334.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FEC29229ECD61400816EB6 /* PGS_92334.swift */; };
 		20FF2D342C9D09B000230A94 /* BOJ_10989.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FF2D332C9D09B000230A94 /* BOJ_10989.swift */; };
+		20FF2D362C9D67BB00230A94 /* BOJ_2309.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FF2D352C9D67BB00230A94 /* BOJ_2309.swift */; };
 		20FFC0D22A8139F4001C3DC5 /* choiceBollingBall.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FFC0D12A8139F4001C3DC5 /* choiceBollingBall.swift */; };
 /* End PBXBuildFile section */
 
@@ -300,6 +301,7 @@
 		20FEC29029ECD0E200816EB6 /* PGS_118666.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_118666.swift; sourceTree = "<group>"; };
 		20FEC29229ECD61400816EB6 /* PGS_92334.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_92334.swift; sourceTree = "<group>"; };
 		20FF2D332C9D09B000230A94 /* BOJ_10989.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_10989.swift; sourceTree = "<group>"; };
+		20FF2D352C9D67BB00230A94 /* BOJ_2309.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2309.swift; sourceTree = "<group>"; };
 		20FFC0D12A8139F4001C3DC5 /* choiceBollingBall.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = choiceBollingBall.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -524,6 +526,7 @@
 				200777BB2C892D74002A4D3F /* BOJ_3040.swift */,
 				200777BD2C8931B0002A4D3F /* BOJ_4344.swift */,
 				20FF2D332C9D09B000230A94 /* BOJ_10989.swift */,
+				20FF2D352C9D67BB00230A94 /* BOJ_2309.swift */,
 			);
 			path = BRONZE;
 			sourceTree = "<group>";
@@ -835,6 +838,7 @@
 				2094128D292618C9001DB342 /* BOJ_5789.swift in Sources */,
 				205CC2602A7D39C300F557FC /* adventurersGuild.swift in Sources */,
 				203EC10129E675C200469208 /* PGS_131127.swift in Sources */,
+				20FF2D362C9D67BB00230A94 /* BOJ_2309.swift in Sources */,
 				207DBB522912721100316B82 /* PGS_70128.swift in Sources */,
 				207DBB54291277A600316B82 /* PGS_132267.swift in Sources */,
 				209D370129CBEED20011C0F4 /* PGS_12941.swift in Sources */,
