@@ -119,7 +119,8 @@ import Foundation
 //answer_BOJ_DFS와BFS_1260()
 //answer_바이러스_2606()
 //answer_스택_10828()
-answer_미로탐색_2178()
+//answer_미로탐색_2178()
+answer_BOJ_유기농배추_1012()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
