@@ -124,9 +124,9 @@ import Foundation
 //answer_숨바꼭질_1697()
 //answer_BOJ_연결요소의개수_11724()
 //answer_BOJ_단지번호붙이기_2667()
-answer_BOJ_트리의부모찾기_11725()
+//answer_BOJ_트리의부모찾기_11725()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
 //answer_토마토_7576()
-
+answer_BOJ_적록색약_10026()
