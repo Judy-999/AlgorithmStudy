@@ -121,8 +121,9 @@ import Foundation
 //answer_스택_10828()
 //answer_미로탐색_2178()
 //answer_BOJ_유기농배추_1012()
+answer_숨바꼭질_1697()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
-answer_토마토_7576()
+//answer_토마토_7576()
 
