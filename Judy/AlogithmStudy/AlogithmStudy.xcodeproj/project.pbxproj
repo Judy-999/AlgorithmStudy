@@ -14,6 +14,7 @@
 		200B82D72A9F8A4200806917 /* gameDevelop.swift in Sources */ = {isa = PBXBuildFile; fileRef = 200B82D62A9F8A4200806917 /* gameDevelop.swift */; };
 		2027B4892CA0E950003CF50B /* BOJ_7576.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2027B4882CA0E950003CF50B /* BOJ_7576.swift */; };
 		2027B48B2CA105A3003CF50B /* BOJ_1697.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2027B48A2CA105A3003CF50B /* BOJ_1697.swift */; };
+		2027B48D2CA11385003CF50B /* BOJ_11724.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2027B48C2CA11385003CF50B /* BOJ_11724.swift */; };
 		2028F48D2AD83A43004349EF /* UpToDown.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2028F48C2AD83A43004349EF /* UpToDown.swift */; };
 		2028F48F2AD83D0F004349EF /* LowerGrade.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2028F48E2AD83D0F004349EF /* LowerGrade.swift */; };
 		2028F4912AD84173004349EF /* ExchangeElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2028F4902AD84173004349EF /* ExchangeElement.swift */; };
@@ -175,6 +176,7 @@
 		200B82D62A9F8A4200806917 /* gameDevelop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gameDevelop.swift; sourceTree = "<group>"; };
 		2027B4882CA0E950003CF50B /* BOJ_7576.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_7576.swift; sourceTree = "<group>"; };
 		2027B48A2CA105A3003CF50B /* BOJ_1697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1697.swift; sourceTree = "<group>"; };
+		2027B48C2CA11385003CF50B /* BOJ_11724.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_11724.swift; sourceTree = "<group>"; };
 		2028F48C2AD83A43004349EF /* UpToDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpToDown.swift; sourceTree = "<group>"; };
 		2028F48E2AD83D0F004349EF /* LowerGrade.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LowerGrade.swift; sourceTree = "<group>"; };
 		2028F4902AD84173004349EF /* ExchangeElement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExchangeElement.swift; sourceTree = "<group>"; };
@@ -669,6 +671,7 @@
 				20A81BED2CA0164600059207 /* BOJ_1012.swift */,
 				2027B4882CA0E950003CF50B /* BOJ_7576.swift */,
 				2027B48A2CA105A3003CF50B /* BOJ_1697.swift */,
+				2027B48C2CA11385003CF50B /* BOJ_11724.swift */,
 			);
 			path = SILVER;
 			sourceTree = "<group>";
@@ -849,6 +852,7 @@
 				2074804F29375F9100644AEF /* BOJ_7489.swift in Sources */,
 				20D6A85A2A93AA61004EB565 /* Stairs.swift in Sources */,
 				200777BE2C8931B0002A4D3F /* BOJ_4344.swift in Sources */,
+				2027B48D2CA11385003CF50B /* BOJ_11724.swift in Sources */,
 				2076F9EE29D11EA0008799EA /* PGS_42842.swift in Sources */,
 				2028F48D2AD83A43004349EF /* UpToDown.swift in Sources */,
 				20C801AF29C95E4F0021BD1D /* PGS_77485.swift in Sources */,
