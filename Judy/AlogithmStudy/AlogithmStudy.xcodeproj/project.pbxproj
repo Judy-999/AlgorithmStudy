@@ -144,6 +144,7 @@
 		20E196AF294971D500A6CDD2 /* BOJ_2163.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E196AE294971D500A6CDD2 /* BOJ_2163.swift */; };
 		20E196B129497EE100A6CDD2 /* PGS_133502.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E196B029497EE100A6CDD2 /* PGS_133502.swift */; };
 		20E4E6CD2CA1328D0041A83C /* BOJ_2667.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E4E6CC2CA1328D0041A83C /* BOJ_2667.swift */; };
+		20E4E6CF2CA13F700041A83C /* BOJ_11725.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E4E6CE2CA13F700041A83C /* BOJ_11725.swift */; };
 		20E51EC72C08AE5F00E820D6 /* PGS_154539.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E51EC62C08AE5F00E820D6 /* PGS_154539.swift */; };
 		20E51EC92C08AF4700E820D6 /* PGS_155652.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E51EC82C08AF4700E820D6 /* PGS_155652.swift */; };
 		20E51ECC2C08B0A500E820D6 /* PGS_42579.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20E51ECB2C08B0A500E820D6 /* PGS_42579.swift */; };
@@ -308,6 +309,7 @@
 		20E196AE294971D500A6CDD2 /* BOJ_2163.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2163.swift; sourceTree = "<group>"; };
 		20E196B029497EE100A6CDD2 /* PGS_133502.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_133502.swift; sourceTree = "<group>"; };
 		20E4E6CC2CA1328D0041A83C /* BOJ_2667.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2667.swift; sourceTree = "<group>"; };
+		20E4E6CE2CA13F700041A83C /* BOJ_11725.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_11725.swift; sourceTree = "<group>"; };
 		20E51EC62C08AE5F00E820D6 /* PGS_154539.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_154539.swift; sourceTree = "<group>"; };
 		20E51EC82C08AF4700E820D6 /* PGS_155652.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_155652.swift; sourceTree = "<group>"; };
 		20E51ECB2C08B0A500E820D6 /* PGS_42579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_42579.swift; sourceTree = "<group>"; };
@@ -675,6 +677,7 @@
 				2027B48A2CA105A3003CF50B /* BOJ_1697.swift */,
 				2027B48C2CA11385003CF50B /* BOJ_11724.swift */,
 				20E4E6CC2CA1328D0041A83C /* BOJ_2667.swift */,
+				20E4E6CE2CA13F700041A83C /* BOJ_11725.swift */,
 			);
 			path = SILVER;
 			sourceTree = "<group>";
@@ -715,7 +718,7 @@
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
-				LastUpgradeCheck = 1340;
+				LastUpgradeCheck = 1540;
 				TargetAttributes = {
 					20C710F128FE3BAF002A7F08 = {
 						CreatedOnToolsVersion = 13.4.1;
@@ -802,6 +805,7 @@
 				208DCB2029C406D1007453D3 /* PGS_17679.swift in Sources */,
 				205CC2662A7D473100F557FC /* priceCannotBeMade.swift in Sources */,
 				2028F48F2AD83D0F004349EF /* LowerGrade.swift in Sources */,
+				20E4E6CF2CA13F700041A83C /* BOJ_11725.swift in Sources */,
 				2027B4892CA0E950003CF50B /* BOJ_7576.swift in Sources */,
 				20E906CF2944815800D39BB6 /* PGS_142086.swift in Sources */,
 				202E7CF929E8DC1D001BCF41 /* PGS_17681.swift in Sources */,
@@ -932,9 +936,11 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -992,9 +998,11 @@
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				COPY_PHASE_STRIP = NO;
+				DEAD_CODE_STRIPPING = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -1016,6 +1024,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
@@ -1025,6 +1034,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
