@@ -126,9 +126,10 @@ import Foundation
 //answer_BOJ_단지번호붙이기_2667()
 //answer_BOJ_트리의부모찾기_11725()
 //answer_BOJ_섬의개수_4963()
-answer_BOJ_안전영역_2468()
+//answer_BOJ_안전영역_2468()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
 //answer_토마토_7576()
 //answer_BOJ_적록색약_10026()
+answer_BOJ_알파벳_1987()
