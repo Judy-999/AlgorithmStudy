@@ -40,6 +40,7 @@
 		203E37102CA2424900EDB508 /* BOJ_2468.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E370F2CA2424900EDB508 /* BOJ_2468.swift */; };
 		203E37122CA24B5300EDB508 /* BOJ_1987.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E37112CA24B5300EDB508 /* BOJ_1987.swift */; };
 		203E37142CA26E4B00EDB508 /* BOJ_2839.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E37132CA26E4B00EDB508 /* BOJ_2839.swift */; };
+		203E37162CA274D500EDB508 /* BOJ_1463.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E37152CA274D500EDB508 /* BOJ_1463.swift */; };
 		203EC0FD29E64C3D00469208 /* PGS_43165.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203EC0FC29E64C3D00469208 /* PGS_43165.swift */; };
 		203EC0FF29E65CFE00469208 /* PGS_60057.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203EC0FE29E65CFE00469208 /* PGS_60057.swift */; };
 		203EC10129E675C200469208 /* PGS_131127.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203EC10029E675C200469208 /* PGS_131127.swift */; };
@@ -209,6 +210,7 @@
 		203E370F2CA2424900EDB508 /* BOJ_2468.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2468.swift; sourceTree = "<group>"; };
 		203E37112CA24B5300EDB508 /* BOJ_1987.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1987.swift; sourceTree = "<group>"; };
 		203E37132CA26E4B00EDB508 /* BOJ_2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2839.swift; sourceTree = "<group>"; };
+		203E37152CA274D500EDB508 /* BOJ_1463.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1463.swift; sourceTree = "<group>"; };
 		203EC0FC29E64C3D00469208 /* PGS_43165.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_43165.swift; sourceTree = "<group>"; };
 		203EC0FE29E65CFE00469208 /* PGS_60057.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_60057.swift; sourceTree = "<group>"; };
 		203EC10029E675C200469208 /* PGS_131127.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_131127.swift; sourceTree = "<group>"; };
@@ -693,6 +695,7 @@
 				203E370D2CA23AF500EDB508 /* BOJ_4963.swift */,
 				203E370F2CA2424900EDB508 /* BOJ_2468.swift */,
 				203E37132CA26E4B00EDB508 /* BOJ_2839.swift */,
+				203E37152CA274D500EDB508 /* BOJ_1463.swift */,
 			);
 			path = SILVER;
 			sourceTree = "<group>";
@@ -913,6 +916,7 @@
 				207F306329DE6E1B0084963B /* PGS_12949.swift in Sources */,
 				2080041329D7C76600498BB5 /* PGS_42587.swift in Sources */,
 				209D370329CBFA560011C0F4 /* PGS_17677.swift in Sources */,
+				203E37162CA274D500EDB508 /* BOJ_1463.swift in Sources */,
 				20D37BD929D65F84006BFED0 /* PGS_87946.swift in Sources */,
 				20CE274A2AB353E10088A986 /* LockAndKey.swift in Sources */,
 				20E51EC72C08AE5F00E820D6 /* PGS_154539.swift in Sources */,
