@@ -39,6 +39,7 @@
 		203E370E2CA23AF500EDB508 /* BOJ_4963.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E370D2CA23AF500EDB508 /* BOJ_4963.swift */; };
 		203E37102CA2424900EDB508 /* BOJ_2468.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E370F2CA2424900EDB508 /* BOJ_2468.swift */; };
 		203E37122CA24B5300EDB508 /* BOJ_1987.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E37112CA24B5300EDB508 /* BOJ_1987.swift */; };
+		203E37142CA26E4B00EDB508 /* BOJ_2839.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203E37132CA26E4B00EDB508 /* BOJ_2839.swift */; };
 		203EC0FD29E64C3D00469208 /* PGS_43165.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203EC0FC29E64C3D00469208 /* PGS_43165.swift */; };
 		203EC0FF29E65CFE00469208 /* PGS_60057.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203EC0FE29E65CFE00469208 /* PGS_60057.swift */; };
 		203EC10129E675C200469208 /* PGS_131127.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203EC10029E675C200469208 /* PGS_131127.swift */; };
@@ -207,6 +208,7 @@
 		203E370D2CA23AF500EDB508 /* BOJ_4963.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_4963.swift; sourceTree = "<group>"; };
 		203E370F2CA2424900EDB508 /* BOJ_2468.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2468.swift; sourceTree = "<group>"; };
 		203E37112CA24B5300EDB508 /* BOJ_1987.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1987.swift; sourceTree = "<group>"; };
+		203E37132CA26E4B00EDB508 /* BOJ_2839.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2839.swift; sourceTree = "<group>"; };
 		203EC0FC29E64C3D00469208 /* PGS_43165.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_43165.swift; sourceTree = "<group>"; };
 		203EC0FE29E65CFE00469208 /* PGS_60057.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_60057.swift; sourceTree = "<group>"; };
 		203EC10029E675C200469208 /* PGS_131127.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PGS_131127.swift; sourceTree = "<group>"; };
@@ -690,6 +692,7 @@
 				20E4E6CE2CA13F700041A83C /* BOJ_11725.swift */,
 				203E370D2CA23AF500EDB508 /* BOJ_4963.swift */,
 				203E370F2CA2424900EDB508 /* BOJ_2468.swift */,
+				203E37132CA26E4B00EDB508 /* BOJ_2839.swift */,
 			);
 			path = SILVER;
 			sourceTree = "<group>";
@@ -895,6 +898,7 @@
 				2074804B29374A1C00644AEF /* BOJ_4504.swift in Sources */,
 				2094128D292618C9001DB342 /* BOJ_5789.swift in Sources */,
 				205CC2602A7D39C300F557FC /* adventurersGuild.swift in Sources */,
+				203E37142CA26E4B00EDB508 /* BOJ_2839.swift in Sources */,
 				203EC10129E675C200469208 /* PGS_131127.swift in Sources */,
 				20FF2D362C9D67BB00230A94 /* BOJ_2309.swift in Sources */,
 				207DBB522912721100316B82 /* PGS_70128.swift in Sources */,
