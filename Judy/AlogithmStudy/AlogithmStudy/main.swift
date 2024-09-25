@@ -132,7 +132,8 @@ import Foundation
 //answer_BOJ_123더하기_9095()
 //answer_BOJ_피보나치_1003()
 //answer_BOJ_2xn타일링_11726()
-answer_BOJ_계단오르기_2579()
+//answer_BOJ_계단오르기_2579()
+answer_BOJ_RGB거리_1149()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
