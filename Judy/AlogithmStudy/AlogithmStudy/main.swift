@@ -135,10 +135,11 @@ import Foundation
 //answer_BOJ_계단오르기_2579()
 //answer_BOJ_RGB거리_1149()
 //answer_BOJ_가장긴증가하는부분수열_11053()
+answer_BOJ_그룹단어체커_1316()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
 //answer_토마토_7576()
 //answer_BOJ_적록색약_10026()
 //answer_BOJ_알파벳_1987()
-answer_BOJ_평범한배낭_12865()
+//answer_BOJ_평범한배낭_12865()
