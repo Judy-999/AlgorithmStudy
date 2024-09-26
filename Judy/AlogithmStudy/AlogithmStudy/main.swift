@@ -135,7 +135,8 @@ import Foundation
 //answer_BOJ_계단오르기_2579()
 //answer_BOJ_RGB거리_1149()
 //answer_BOJ_가장긴증가하는부분수열_11053()
-answer_BOJ_그룹단어체커_1316()
+//answer_BOJ_그룹단어체커_1316()
+answer_BOJ_듣보잡_1764()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
