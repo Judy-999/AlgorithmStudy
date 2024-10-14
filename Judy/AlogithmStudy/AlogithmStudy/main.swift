@@ -113,7 +113,7 @@ import Foundation
 //answer_BOJ_평균은넘겠지_4344()
 //answer_BOJ_수정렬하기3_10989()
 //answer_BOJ_일곱난쟁이_2309()
-answer_BOJ_부녀회장이될테야_2775()
+//answer_BOJ_부녀회장이될테야_2775()
 
 //MARK: - 백준 SILVER
 //answer_BOJ_마지막팩토리얼수_2553()
@@ -141,6 +141,7 @@ answer_BOJ_부녀회장이될테야_2775()
 //answer_BOJ_잃어버린괄호_1541()
 //answer_BOJ_제로_10773()
 //answer_BOJ_ATM_11399()
+answer_BOJ_다리놓기_1010()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
