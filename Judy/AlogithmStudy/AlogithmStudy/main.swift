@@ -97,6 +97,7 @@ import Foundation
 
 //MARK: - 프로그래머스 Level 3
 //print(answer_PGS_베스트앨범(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500]))
+print(answer_PGS_연속펄스부분수열의합([2, 3, -6, 1, 3, -1, 2, 4]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
@@ -141,7 +142,7 @@ import Foundation
 //answer_BOJ_잃어버린괄호_1541()
 //answer_BOJ_제로_10773()
 //answer_BOJ_ATM_11399()
-answer_BOJ_다리놓기_1010()
+//answer_BOJ_다리놓기_1010()
 
 //MARK: - 백준 COLD
 //answer_BOJ_BFS스페셜저지_16940()
