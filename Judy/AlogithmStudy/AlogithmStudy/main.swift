@@ -97,7 +97,8 @@ import Foundation
 
 //MARK: - 프로그래머스 Level 3
 //print(answer_PGS_베스트앨범(["classic", "pop", "classic", "classic", "pop"], [500, 600, 150, 800, 2500]))
-print(answer_PGS_연속펄스부분수열의합([2, 3, -6, 1, 3, -1, 2, 4]))
+//print(answer_PGS_연속펄스부분수열의합([2, 3, -6, 1, 3, -1, 2, 4]))
+print(answer_PGS_파괴되지않은건물([[1,2,3],[4,5,6],[7,8,9]], [[1,1,1,2,2,4],[1,0,0,1,1,2],[2,2,0,2,0,100]]))
 
 //MARK: - 백준 BRONZE
 //answer_BOJ_한다안한다_5789()
